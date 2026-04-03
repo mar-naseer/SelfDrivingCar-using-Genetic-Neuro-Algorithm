@@ -8,11 +8,15 @@ Technology Stack: Pure JavaScript, HTML, and CSS (no external libraries!), highl
 principles of ANNs without distractions.
 
 Key Features:
+
 • Visualization: Witness the ANN in action, observing its decision-making process as it navigates the
 road and learns from its mistakes.
+
 • Parallelization: Leverage the power of parallel processing for efficient computation, demonstrating the
 scalability of ANNs.
+
 • Genetic Algorithm: Optimize the car's performance through natural selection, mimicking the evolution
 of biological systems.
+
 • Obstacle Detection and Avoidance: Navigate a dynamic environment with obstacles, showcasing the
 ANN's ability to adapt and learn from experience
