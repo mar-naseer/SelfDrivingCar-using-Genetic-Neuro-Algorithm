@@ -16,6 +16,8 @@ road and learns from its mistakes.
 • Parallelization: Leverage the power of parallel processing for efficient computation, demonstrating the
 scalability of ANNs.
 
+
+
 • Genetic Algorithm: Optimize the car's performance through natural selection, mimicking the evolution
 of biological systems.
 
